@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Carolina Rezende</h1>
+<h1>Hi 👋, I'm Ana Carolina Rezende</h1>
 <p>A passionate frontend developer and backend student from Canada</p>
 
 - 🌱 I’m currently learning **IT at College LaSalle Montreal**
